@@ -23,6 +23,22 @@ The sentiment labels are:
 ## Key asks:
 •	Assign a sentiment label to each phrase in the test.tsv file
 
+## Model
+<p align="center">
+<img src ="https://github.com/SwamiKannan/Sentiment-Analysis-using-Transformers/blob/main/Model_design.PNG"
+</p>
+
+## Scores:
+### Batch of 16
+<p align="center">
+<img src ="https://github.com/SwamiKannan/Sentiment-Analysis-using-Transformers/blob/main/Score_16_sample_batch.PNG"
+</p>
+### Batch of 32
+<p align="center">
+<img src ="https://github.com/SwamiKannan/Sentiment-Analysis-using-Transformers/blob/main/Score_32_sample_batch.PNG"
+</p>
+
+<p align="left">
 
 <sub>
 Credit for images:<br>
@@ -36,3 +52,4 @@ Credit for images:<br>
 <a href="https://www.flaticon.com/free-icons/review" title="review icons">Review icons created by Freepik - Flaticon</a><br>
 <a href="https://www.flaticon.com/free-icons/customer-experience" title="customer experience icons">Customer experience icons created by juicy_fish - Flaticon</a><br>
 </sub>
+</p>
